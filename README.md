@@ -1,5 +1,4 @@
-# 2017_group_12_s3245543_s3264254_s3411427
-
+Thsi repository contains code for the project of the course "Web and cloud computing"
 
 # Back-end
 
