@@ -1,5 +1,4 @@
-# 2017_group_12_s3245543_s3264254_s3411427
-
+The respository contains code for the course project "Web and cloud computing"
 
 # Back-end
 
