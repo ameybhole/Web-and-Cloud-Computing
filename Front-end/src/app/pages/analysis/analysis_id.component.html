@@ -1,0 +1,124 @@
+<div *ngIf="isfound == false" class="col-lg-12" style="text-align: center">
+    <svg class="circular" viewBox="25 25 50 50" style="margin-top: 80px">
+        <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10" />
+    </svg>
+    <div style="margin-top: 20px">Loading sentimental analysis</div>
+</div>
+
+<div *ngIf="isfound == true" class="row">
+    <div  class="col-lg-12">
+        <div class="ribbon-wrapper card" style="padding-left: 50px; padding-top: 15px" >
+            <div class="ribbon ribbon-default ribbon-vertical-l"><i class="fa fa-twitter"></i></div>
+            <div class="row" style="margin-left: 0px">
+                <div class="col-lg-1 align-content-lg-center">
+                    <img src="https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg"
+                         class="img-circle" style="width: 64px; height: 64px">
+                </div>
+                <div class="col-lg-11 align-content-lg-center">
+                    <div class="ribbon-content" style="padding-top: 8px" >
+                        {{data.twitter_list[tweetIndex].text}}<br />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div *ngIf="isfound == true" class="row">
+    <div class="col-lg-3 col-md-6">
+        <div class="card" style="background-color: #f62d51">
+            <div class="card-body">
+                <div class="d-flex flex-row">
+                    <div class="round round-lg align-self-center" style="background-color: white"><i style="color: #f62d51" class="mdi mdi-heart-outline"></i></div>
+                    <div class="m-l-10 align-self-center"></div>
+                    <div class="m-l-10 align-self-center">
+                        <h3 class="m-b-0 font-light" style="color: white">{{data.twitter_list[tweetIndex].favorite_count}}</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6">
+        <div class="card card-success">
+            <div class="card-body">
+                <div class="d-flex flex-row">
+                    <div class="round round-lg align-self-center" style="background-color: white"><i style="color: #26c6da" class="mdi mdi-twitter-retweet"></i></div>
+                    <div class="m-l-10 align-self-center"></div>
+                    <div class="m-l-10 align-self-center">
+                        <h3 class="m-b-0 font-light" style="color: white">{{data.twitter_list[tweetIndex].retweet_count}}</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div *ngIf="isfound == true && data.twitter_list[tweetIndex].sentiment != null &&  data.twitter_list[tweetIndex].sentiment > 0" class="col-lg-3 col-md-6">
+        <div class="card" style="background-color: #1eda1e">
+            <div class="card-body">
+                <div class="d-flex flex-row">
+                    <div class="round round-lg align-self-center" style="background-color: white"><i style="color: #1eda1e" class="mdi mdi-emoticon"></i></div>
+                    <div class="m-l-10 align-self-center"></div>
+                    <div class="m-l-10 align-self-center">
+                        <h6 class="m-b-0 font-light" style="color: white">Sentimental analysis</h6>
+                        <h3 class="m-b-0 font-light" style="color: white">Positive</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div *ngIf="isfound == true && data.twitter_list[tweetIndex].sentiment != null &&  data.twitter_list[tweetIndex].sentiment == 0" class="col-lg-3 col-md-6">
+        <div class="card" style="background-color: #ffbc00">
+            <div class="card-body">
+                <div class="d-flex flex-row">
+                    <div class="round round-lg align-self-center" style="background-color: white"><i style="color: #ffbc00" class="mdi mdi-emoticon-neutral"></i></div>
+                    <div class="m-l-10 align-self-center"></div>
+                    <div class="m-l-10 align-self-center">
+                        <h6 class="m-b-0 font-light" style="color: white">Sentimental analysis</h6>
+                        <h3 class="m-b-0 font-light" style="color: white">Neutral</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div *ngIf="isfound == true && data.twitter_list[tweetIndex].sentiment != null &&  data.twitter_list[tweetIndex].sentiment < 0" class="col-lg-3 col-md-6">
+        <div class="card" style="background-color: red">
+            <div class="card-body">
+                <div class="d-flex flex-row">
+                    <div class="round round-lg align-self-center" style="background-color: white"><i style="color: red" class="mdi mdi-emoticon-sad"></i></div>
+                    <div class="m-l-10 align-self-center"></div>
+                    <div class="m-l-10 align-self-center">
+                        <h6 class="m-b-0 font-light" style="color: white">Sentimental analysis</h6>
+                        <h3 class="m-b-0 font-light" style="color: white">Negative</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div *ngIf="isfound == true && data.twitter_list[tweetIndex].sentiment == null" class="col-lg-3 col-md-6">
+        <div class="card" style="background-color: grey">
+            <div class="card-body">
+                <div class="d-flex flex-row">
+                    <div class="round round-lg align-self-center" style="background-color: white"><i style="color: grey" class="mdi mdi-emoticon-dead"></i></div>
+                    <div class="m-l-10 align-self-center"></div>
+                    <div class="m-l-10 align-self-center">
+                        <h6 class="m-b-0 font-light" style="color: white">Sentimental analysis</h6>
+                        <h3 class="m-b-0 font-light" style="color: white">No analysis</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div *ngIf="isfound == true && data.twitter_list[tweetIndex].sentiment != null" class="col-lg-3 col-md-6">
+        <div class="card" style="background-color: grey">
+            <div class="card-body">
+                <div class="d-flex flex-row">
+                    <div class="round round-lg align-self-center" style="background-color: white"><i style="color: grey" class="mdi mdi-chart-bar"></i></div>
+                    <div class="m-l-10 align-self-center"></div>
+                    <div class="m-l-10 align-self-center">
+                        <h6 class="m-b-0 font-light" style="color: white">Sentimental score</h6>
+                        <h3 class="m-b-0 font-light" style="color: white">{{ data.twitter_list[tweetIndex].sentiment}}</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

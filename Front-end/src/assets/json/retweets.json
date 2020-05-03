@@ -1,0 +1,3669 @@
+[
+  {
+    "created_at": "Wed Sep 27 09:37:27 +0000 2017",
+    "id": 9.1297445649838e+17,
+    "id_str": "912974456498384896",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 8.6392799995513e+17,
+      "id_str": "863927999955128320",
+      "name": "Trump2020\ud83c\uddfa\ud83c\uddf8",
+      "screen_name": "real_donald_",
+      "location": "",
+      "description": "God Bless President Trump! \ud83c\uddfa\ud83c\uddf8 I tweet my mind. If you don't like it, cry about it and go hide in your safe space \u2744\ufe0f. I love ALL Trump supporters! #MAGA #USA",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1054,
+      "friends_count": 1287,
+      "listed_count": 0,
+      "created_at": "Mon May 15 01:24:20 +0000 2017",
+      "favourites_count": 1274,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4134,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/867098896543207425\/KE1JVkUD_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/867098896543207425\/KE1JVkUD_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/863927999955128320\/1496112737",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 27 09:37:25 +0000 2017",
+    "id": 9.1297444868435e+17,
+    "id_str": "912974448684347392",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 499265751,
+      "id_str": "499265751",
+      "name": "Roadrunner",
+      "screen_name": "tdstang2007",
+      "location": "",
+      "description": "Optimistic Pessimist\n#Trump Supporter | #MAGA | #Covfefe In The End We Win! | Jesus Saves | Dog Lover | Two Scoop Girl | 2A Supporter |Gun Owner| \ud83e\udd53 Eater",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 641,
+      "friends_count": 861,
+      "listed_count": 1,
+      "created_at": "Tue Feb 21 23:20:43 +0000 2012",
+      "favourites_count": 6437,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3392,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/908637790795190277\/9uT1Z54P_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/908637790795190277\/9uT1Z54P_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/499265751\/1497702355",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 27 09:37:19 +0000 2017",
+    "id": 9.1297442413504e+17,
+    "id_str": "912974424135041024",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 288429840,
+      "id_str": "288429840",
+      "name": "David Beaumont",
+      "screen_name": "davidglen23",
+      "location": "Fitzwilliam, England",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 636,
+      "friends_count": 1561,
+      "listed_count": 1,
+      "created_at": "Tue Apr 26 20:55:50 +0000 2011",
+      "favourites_count": 35260,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 11683,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/793774651415601152\/y49CXFoc_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/793774651415601152\/y49CXFoc_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 27 09:37:18 +0000 2017",
+    "id": 9.1297442029735e+17,
+    "id_str": "912974420297347077",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\">Twitter for iPad<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 223925621,
+      "id_str": "223925621",
+      "name": "Jesse Sheets",
+      "screen_name": "Bandy75",
+      "location": "Lancaster, PA",
+      "description": "Father, son, I wake up, I go to work.\nProudly believe in life, liberty, pursuit of happiness!",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 91,
+      "friends_count": 139,
+      "listed_count": 0,
+      "created_at": "Tue Dec 07 18:06:48 +0000 2010",
+      "favourites_count": 3562,
+      "utc_offset": -10800,
+      "time_zone": "Atlantic Time (Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2154,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/904487607492599808\/hRRii6Cn_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/904487607492599808\/hRRii6Cn_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/223925621\/1497223300",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 27 09:37:12 +0000 2017",
+    "id": 9.1297439350415e+17,
+    "id_str": "912974393504145409",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 21022748,
+      "id_str": "21022748",
+      "name": "Susan",
+      "screen_name": "susan51279",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 5,
+      "friends_count": 91,
+      "listed_count": 0,
+      "created_at": "Mon Feb 16 20:23:56 +0000 2009",
+      "favourites_count": 96,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 79,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme11\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme11\/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/672428438620348416\/HT_Jjg51_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/672428438620348416\/HT_Jjg51_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/21022748\/1478795805",
+      "profile_link_color": "5AD6A4",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 27 09:36:46 +0000 2017",
+    "id": 9.1297428342044e+17,
+    "id_str": "912974283420442625",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2327849132,
+      "id_str": "2327849132",
+      "name": "Ainsley Trump",
+      "screen_name": "AinsleyTrump",
+      "location": "New York, USA",
+      "description": "Ainsley Trump",
+      "url": "https:\/\/t.co\/6vp8y4l0kb",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/6vp8y4l0kb",
+              "expanded_url": "https:\/\/twitter.com\/AinsleyTrump",
+              "display_url": "twitter.com\/AinsleyTrump",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1128,
+      "friends_count": 1668,
+      "listed_count": 3,
+      "created_at": "Tue Feb 04 22:51:25 +0000 2014",
+      "favourites_count": 117,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 285,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000181673386\/5_e2iuOb.jpeg",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000181673386\/5_e2iuOb.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/911707275512999936\/Pa9_Q_Tb_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/911707275512999936\/Pa9_Q_Tb_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2327849132\/1506202907",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 27 09:36:37 +0000 2017",
+    "id": 9.1297424793242e+17,
+    "id_str": "912974247932424192",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 8.2732507399232e+17,
+      "id_str": "827325073992318976",
+      "name": "Gail Masters",
+      "screen_name": "daisylueboo1",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 105,
+      "friends_count": 83,
+      "listed_count": 1,
+      "created_at": "Fri Feb 03 01:17:23 +0000 2017",
+      "favourites_count": 32179,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1988,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+      "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 27 09:36:21 +0000 2017",
+    "id": 9.1297417916677e+17,
+    "id_str": "912974179166773249",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 96916835,
+      "id_str": "96916835",
+      "name": "Richard Mccleary IV",
+      "screen_name": "card2525",
+      "location": "New Richmond, OH",
+      "description": "Love God 1st!",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 102,
+      "friends_count": 84,
+      "listed_count": 0,
+      "created_at": "Tue Dec 15 05:01:39 +0000 2009",
+      "favourites_count": 1403,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2639,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/812107884909756419\/z638DU3J_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/812107884909756419\/z638DU3J_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 27 09:36:14 +0000 2017",
+    "id": 9.1297415038552e+17,
+    "id_str": "912974150385520640",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 8.1877375845431e+17,
+      "id_str": "818773758454312960",
+      "name": "Kelly",
+      "screen_name": "kelly_bungard",
+      "location": "West Of the Swamp",
+      "description": "Your lack of planning and poor life choices does not constitute my emergency. #MAGA",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 733,
+      "friends_count": 1485,
+      "listed_count": 2,
+      "created_at": "Tue Jan 10 10:57:30 +0000 2017",
+      "favourites_count": 9066,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 14133,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/892012243319181318\/IqnLR9XI_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/892012243319181318\/IqnLR9XI_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/818773758454312960\/1505051891",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 27 09:36:14 +0000 2017",
+    "id": 9.1297414963055e+17,
+    "id_str": "912974149630545920",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 518032499,
+      "id_str": "518032499",
+      "name": "@Mystic\u2764Life \ud83c\udf39\ud83c\uddfa\ud83c\uddf8",
+      "screen_name": "gaylahuckaby",
+      "location": "Universe!! Covfefe\ud83d\ude09",
+      "description": "love my family and country... weakness is not a option \ud83d\udc38\ud83c\uddfa\ud83c\uddf8\ud83d\uddfd#MAGA Texas Deplorable I stand with President Trump and God! \ud83d\udc4a\ud83c\uddfa\ud83c\uddf8\ud83d\ude4f\ud83c\udf39Not perfect just forgiven!",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2600,
+      "friends_count": 1624,
+      "listed_count": 43,
+      "created_at": "Wed Mar 07 23:38:59 +0000 2012",
+      "favourites_count": 112255,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 41981,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/898136556468391936\/KJTDIJPj_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/898136556468391936\/KJTDIJPj_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/518032499\/1504038753",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 27 09:35:58 +0000 2017",
+    "id": 9.1297408229516e+17,
+    "id_str": "912974082295164929",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2967464573,
+      "id_str": "2967464573",
+      "name": "CHSGovPol",
+      "screen_name": "CHSGovPol",
+      "location": "Croydon",
+      "description": "Croydon High School Politics department, commenting on UK and US politics.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 277,
+      "friends_count": 314,
+      "listed_count": 6,
+      "created_at": "Thu Jan 08 08:47:55 +0000 2015",
+      "favourites_count": 13,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6124,
+      "lang": "en-gb",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/570254313834807296\/MLnsQyKr_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/570254313834807296\/MLnsQyKr_normal.jpeg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2967464573\/1424794266",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 27 09:35:56 +0000 2017",
+    "id": 9.1297407465735e+17,
+    "id_str": "912974074657349632",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 465490127,
+      "id_str": "465490127",
+      "name": "Donna, NYC 4 TRUMP",
+      "screen_name": "Lovable019",
+      "location": "Staten Island",
+      "description": "We Love Our New President, I am Catholic, Love America, Stand by Donald Trump For President Let's make America great  again",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 661,
+      "friends_count": 726,
+      "listed_count": 4,
+      "created_at": "Mon Jan 16 12:08:43 +0000 2012",
+      "favourites_count": 7738,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6826,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/845794191271776257\/59ovSfuI_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/845794191271776257\/59ovSfuI_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/465490127\/1475708100",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 27 09:35:50 +0000 2017",
+    "id": 9.1297405195767e+17,
+    "id_str": "912974051957669888",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3951415096,
+      "id_str": "3951415096",
+      "name": "Becky",
+      "screen_name": "smalltownbex",
+      "location": "Madison, WI",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 10,
+      "friends_count": 44,
+      "listed_count": 0,
+      "created_at": "Wed Oct 14 01:05:07 +0000 2015",
+      "favourites_count": 184,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 138,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/806318370559758340\/1z1nLjYw_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/806318370559758340\/1z1nLjYw_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3951415096\/1481076460",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 27 09:35:45 +0000 2017",
+    "id": 9.1297402986213e+17,
+    "id_str": "912974029862129665",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 8.9778157824336e+17,
+      "id_str": "897781578243358721",
+      "name": "Tracy Tillman",
+      "screen_name": "TracyTi21198998",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 35,
+      "friends_count": 62,
+      "listed_count": 0,
+      "created_at": "Wed Aug 16 11:26:23 +0000 2017",
+      "favourites_count": 1035,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1079,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+      "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 27 09:35:35 +0000 2017",
+    "id": 9.1297398610715e+17,
+    "id_str": "912973986107150336",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\">Twitter for iPad<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1441955664,
+      "id_str": "1441955664",
+      "name": "Pamela Zuckerman",
+      "screen_name": "pzuckerman2",
+      "location": "USA ",
+      "description": "Medical transcriptionist Borzoi owner\/lover. Pianist, Bach and popular.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 669,
+      "listed_count": 25,
+      "created_at": "Sun May 19 19:03:02 +0000 2013",
+      "favourites_count": 6129,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 8428,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/736759590138744832\/tikHtG_s_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/736759590138744832\/tikHtG_s_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1441955664\/1472740029",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 27 09:35:07 +0000 2017",
+    "id": 9.1297387207655e+17,
+    "id_str": "912973872076554240",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 8.2622174910054e+17,
+      "id_str": "826221749100544000",
+      "name": "Steve",
+      "screen_name": "steveprefach",
+      "location": "New Jersey, USA",
+      "description": "happily married to the love \u2764\ufe0f of my life",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 623,
+      "friends_count": 939,
+      "listed_count": 0,
+      "created_at": "Tue Jan 31 00:13:10 +0000 2017",
+      "favourites_count": 10003,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 8979,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/852665738032762880\/oOj215Hb_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/852665738032762880\/oOj215Hb_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/826221749100544000\/1488129126",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 27 09:35:04 +0000 2017",
+    "id": 9.1297385869258e+17,
+    "id_str": "912973858692583424",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2801820871,
+      "id_str": "2801820871",
+      "name": "stock",
+      "screen_name": "dis077",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 128,
+      "friends_count": 661,
+      "listed_count": 10,
+      "created_at": "Wed Sep 10 13:15:21 +0000 2014",
+      "favourites_count": 2204,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 10056,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme2\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme2\/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/699177768815349760\/SAaNlKgX_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/699177768815349760\/SAaNlKgX_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2801820871\/1455531452",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 27 09:34:58 +0000 2017",
+    "id": 9.1297383121989e+17,
+    "id_str": "912973831219892226",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 246483147,
+      "id_str": "246483147",
+      "name": "Proud American",
+      "screen_name": "sblhota",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 334,
+      "friends_count": 270,
+      "listed_count": 41,
+      "created_at": "Wed Feb 02 21:37:52 +0000 2011",
+      "favourites_count": 32410,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36194,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/828182974260711425\/duuKaKGf_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/828182974260711425\/duuKaKGf_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/246483147\/1486289184",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 27 09:34:49 +0000 2017",
+    "id": 9.1297379433523e+17,
+    "id_str": "912973794335232002",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 7.8751043424921e+17,
+      "id_str": "787510434249211904",
+      "name": "Dianne Caudle",
+      "screen_name": "DianneCaudle2",
+      "location": "Eden, NC",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 127,
+      "friends_count": 200,
+      "listed_count": 1,
+      "created_at": "Sun Oct 16 04:28:13 +0000 2016",
+      "favourites_count": 5034,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2794,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/787568689948291072\/SdWo64Nj_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/787568689948291072\/SdWo64Nj_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 27 09:34:35 +0000 2017",
+    "id": 9.1297373616019e+17,
+    "id_str": "912973736160186370",
+    "text": "RT @realDonaldTrump: Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good ra\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "realDonaldTrump",
+          "name": "Donald J. Trump",
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3266563146,
+      "id_str": "3266563146",
+      "name": "Kevin Clipner",
+      "screen_name": "ClipnerKevin",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1287,
+      "friends_count": 1111,
+      "listed_count": 34,
+      "created_at": "Fri Jul 03 01:25:57 +0000 2015",
+      "favourites_count": 26396,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 83711,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/822589290693750785\/tPlIk4bl_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/822589290693750785\/tPlIk4bl_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 02:17:15 +0000 2017",
+      "id": 9.1286367679279e+17,
+      "id_str": "912863676792786946",
+      "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp; ran a good race. Roy, WIN in Dec!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          
+        ]
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25073877,
+        "id_str": "25073877",
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump",
+        "location": "Washington, DC",
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39374643,
+        "friends_count": 45,
+        "listed_count": 76748,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "favourites_count": 15,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 35911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/530021613\/trump_scotland__43_of_70_cc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/25073877\/1506284043",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10816,
+      "favorite_count": 47008,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10816,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

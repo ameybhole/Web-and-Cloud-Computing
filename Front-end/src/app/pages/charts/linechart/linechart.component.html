@@ -1,0 +1,22 @@
+<div *ngIf="isfound == false" class="col-lg-12" style="text-align: center">
+    <svg class="circular" viewBox="25 25 50 50" style="margin-top: 80px">
+        <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10" />
+    </svg>
+    <div style="margin-top: 20px">Loading sentimental analysis graph</div>
+</div>
+
+<div *ngIf="isfound == true" class="row">
+    <div class="col-lg-12">
+        <div style="display: block;">
+            <canvas baseChart width="100" height="20"
+                    [datasets]="lineChartData"
+                    [labels]="lineChartLabels"
+                    [options]="lineChartOptions"
+                    [colors]="lineChartColors"
+                    [legend]="lineChartLegend"
+                    [chartType]="lineChartType"
+                    (chartHover)="chartHovered($event)"
+                    (chartClick)="chartClicked($event)"></canvas>
+        </div>
+    </div>
+</div>

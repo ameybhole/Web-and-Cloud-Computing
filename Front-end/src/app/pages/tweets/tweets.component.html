@@ -1,0 +1,94 @@
+<div class="row">
+    <!-- Column -->
+    <div class="col-lg-4 col-xlg-3 col-md-5">
+        <div class="card"><img class="card-img"
+                               src="https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg"
+                               alt="Card image">
+            <div class="card-img-overlay card-inverse social-profile d-flex ">
+                <div class="align-self-center"><img
+                        src="https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg"
+                        class="img-circle" width="100">
+                    <h4 class="card-title">Donald J. Trump</h4>
+                    <h6 class="card-subtitle">@realDonaldTrump</h6>
+                    <p class="text-white">45th President of the United States of America🇺🇸 </p>
+                </div>
+            </div>
+        </div>
+        <!--<div class="card">
+            <div class="card-body">
+                <small class="text-muted">Email address</small>
+                <h6>hannagover@gmail.com</h6>
+                <small class="text-muted p-t-30 db">Phone</small>
+                <h6>+91 654 784 547</h6>
+                <small class="text-muted p-t-30 db">Address</small>
+                <h6>71 Pilgrim Avenue Chevy Chase, MD 20815</h6>
+
+                <small class="text-muted p-t-30 db">Social Profile</small>
+                <br/>
+                <button class="btn btn-circle btn-secondary"><i class="fa fa-facebook"></i></button>
+                <button class="btn btn-circle btn-secondary"><i class="fa fa-twitter"></i></button>
+                <button class="btn btn-circle btn-secondary"><i class="fa fa-youtube"></i></button>
+            </div>
+        </div>-->
+    </div>
+    <!-- Column -->
+    <!-- Column -->
+    <div class="col-lg-8 col-xlg-9 col-md-7">
+        <div class="card">
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs profile-tab" role="tablist">
+                <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#home" role="tab">Tweets</a>
+                </li>
+            </ul>
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div class="tab-pane active" id="home" role="tabpanel">
+                    <div class="card-body">
+                        <div class="profiletimeline">
+<!--                            <div class="sl-item">
+                                <div class="sl-left"><img
+                                        src="https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_bigger.jpg"
+                                        alt="user" class="img-circle"/></div>
+                                <div class="sl-right">
+                                    <div>
+                                        <a href="#" class="link">Donald Trump</a>
+                                        <span class="sl-date">5 minutes ago</span>
+                                        <div class="m-t-20 row">
+                                            <div class="col-md-9 col-xs-12">
+                                                <p>
+                                                    So proud of NASCAR and its supporters and fans. They won't put up
+                                                    with disrespecting our Country or our Flag - they said it loud and
+                                                    clear!
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="like-comm m-t-20">
+                                            <a href="#" class="link m-r-10">1.432 reactions</a>
+                                            <span class="text-success"><i class="mdi mdi-emoticon-happy"></i> 10.000 </span>
+                                            <span class="text-info"><i class="mdi mdi-emoticon-neutral"></i> 10.000 </span>
+                                            <span class="text-danger"><i class="mdi mdi-emoticon-sad"></i> 10.000 </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <hr>-->
+                            <div *ngFor="let tweet of data.twitter_list">
+                                <div class="sl-item">
+                                    <div class="sl-left"><img
+                                            src="https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_bigger.jpg"
+                                            alt="user" class="img-circle"/></div>
+                                    {{tweet.text}}
+                                    <div class="like-comm m-t-20">
+                                        <a href="/analysis/{{tweet.id}}" class="link m-r-10"><i class="mdi mdi-poll"></i> Show sentimental analysis</a>
+                                    </div>
+                                </div>
+                                <hr>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Column -->
+</div>

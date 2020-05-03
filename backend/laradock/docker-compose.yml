@@ -1,0 +1,352 @@
+version: '2'
+
+services:
+
+### Applications Code Container #############################
+
+    applications:
+      image: tianon/true
+      volumes:
+        - ${APPLICATION}:/var/www
+
+### Workspace Utilities Container ###########################
+
+    workspace:
+      build:
+        context: ./workspace
+        args:
+          - INSTALL_XDEBUG=${WORKSPACE_INSTALL_XDEBUG}
+          - INSTALL_BLACKFIRE=${INSTALL_BLACKFIRE}
+          - INSTALL_SOAP=${WORKSPACE_INSTALL_SOAP}
+          - INSTALL_LDAP=${WORKSPACE_INSTALL_LDAP}
+          - INSTALL_MONGO=${WORKSPACE_INSTALL_MONGO}
+          - INSTALL_PHPREDIS=${WORKSPACE_INSTALL_PHPREDIS}
+          - INSTALL_MSSQL=${WORKSPACE_INSTALL_MSSQL}
+          - INSTALL_NODE=${WORKSPACE_INSTALL_NODE}
+          - INSTALL_YARN=${WORKSPACE_INSTALL_YARN}
+          - INSTALL_DRUSH=${WORKSPACE_INSTALL_DRUSH}
+          - INSTALL_DRUPAL_CONSOLE=${WORKSPACE_INSTALL_DRUPAL_CONSOLE}
+          - INSTALL_AEROSPIKE=${WORKSPACE_INSTALL_AEROSPIKE}
+          - INSTALL_V8JS=${WORKSPACE_INSTALL_V8JS}
+          - COMPOSER_GLOBAL_INSTALL=${WORKSPACE_COMPOSER_GLOBAL_INSTALL}
+          - INSTALL_WORKSPACE_SSH=${WORKSPACE_INSTALL_WORKSPACE_SSH}
+          - INSTALL_LARAVEL_ENVOY=${WORKSPACE_INSTALL_LARAVEL_ENVOY}
+          - INSTALL_LARAVEL_INSTALLER=${WORKSPACE_INSTALL_LARAVEL_INSTALLER}
+          - INSTALL_DEPLOYER=${WORKSPACE_INSTALL_DEPLOYER}
+          - INSTALL_LINUXBREW=${WORKSPACE_INSTALL_LINUXBREW}
+          - INSTALL_MC=${WORKSPACE_INSTALL_MC}
+          - INSTALL_SYMFONY=${WORKSPACE_INSTALL_SYMFONY}
+          - INSTALL_PYTHON=${WORKSPACE_INSTALL_PYTHON}
+          - INSTALL_IMAGE_OPTIMIZERS=${WORKSPACE_INSTALL_IMAGE_OPTIMIZERS}
+          - INSTALL_IMAGEMAGICK=${WORKSPACE_INSTALL_IMAGEMAGICK}
+          - INSTALL_TERRAFORM=${WORKSPACE_INSTALL_TERRAFORM}
+          - PUID=${WORKSPACE_PUID}
+          - PGID=${WORKSPACE_PGID}
+          - NODE_VERSION=${WORKSPACE_NODE_VERSION}
+          - YARN_VERSION=${WORKSPACE_YARN_VERSION}
+          - TZ=${WORKSPACE_TIMEZONE}
+          - BLACKFIRE_CLIENT_ID=${BLACKFIRE_CLIENT_ID}
+          - BLACKFIRE_CLIENT_TOKEN=${BLACKFIRE_CLIENT_TOKEN}
+        dockerfile: "Dockerfile-${PHP_VERSION}"
+      volumes_from:
+        - applications
+      extra_hosts:
+        - "dockerhost:${DOCKER_HOST_IP}"
+      ports:
+        - "22"
+      tty: true
+      networks:
+        - frontend
+        - backend
+
+### PHP-FPM Container #######################################
+
+    php-fpm:
+      build:
+        context: ./php-fpm
+        args:
+          - INSTALL_XDEBUG=${PHP_FPM_INSTALL_XDEBUG}
+          - INSTALL_BLACKFIRE=${INSTALL_BLACKFIRE}
+          - INSTALL_SOAP=${PHP_FPM_INSTALL_SOAP}
+          - INSTALL_MONGO=${PHP_FPM_INSTALL_MONGO}
+          - INSTALL_MSSQL=${PHP_FPM_INSTALL_MSSQL}
+          - INSTALL_ZIP_ARCHIVE=${PHP_FPM_INSTALL_ZIP_ARCHIVE}
+          - INSTALL_BCMATH=${PHP_FPM_INSTALL_BCMATH}
+          - INSTALL_PHPREDIS=${PHP_FPM_INSTALL_PHPREDIS}
+          - INSTALL_MEMCACHED=${PHP_FPM_INSTALL_MEMCACHED}
+          - INSTALL_OPCACHE=${PHP_FPM_INSTALL_OPCACHE}
+          - INSTALL_EXIF=${PHP_FPM_INSTALL_EXIF}
+          - INSTALL_AEROSPIKE=${PHP_FPM_INSTALL_AEROSPIKE}
+          - INSTALL_MYSQLI=${PHP_FPM_INSTALL_MYSQLI}
+          - INSTALL_TOKENIZER=${PHP_FPM_INSTALL_TOKENIZER}
+          - INSTALL_INTL=${PHP_FPM_INSTALL_INTL}
+          - INSTALL_GHOSTSCRIPT=${PHP_FPM_INSTALL_GHOSTSCRIPT}
+          - INSTALL_LDAP=${PHP_FPM_INSTALL_LDAP}
+          - INSTALL_SWOOLE=${PHP_FPM_INSTALL_SWOOLE}
+          - INSTALL_IMAGE_OPTIMIZERS=${PHP_FPM_INSTALL_IMAGE_OPTIMIZERS}
+          - INSTALL_IMAGEMAGICK=${PHP_FPM_INSTALL_IMAGEMAGICK}
+        dockerfile: "Dockerfile-${PHP_VERSION}"
+      volumes_from:
+        - applications
+      volumes:
+        - ./php-fpm/php${PHP_VERSION}.ini:/usr/local/etc/php/php.ini
+      expose:
+        - "9000"
+      depends_on:
+        - workspace
+      extra_hosts:
+        - "dockerhost:${DOCKER_HOST_IP}"
+      environment:
+        - PHP_IDE_CONFIG=${PHP_IDE_CONFIG}
+      networks:
+        - backend
+
+### NGINX Server Container ##################################
+
+    nginx:
+      build:
+        context: ./nginx
+#        args:
+#          - PHP_UPSTREAM_CONTAINER=${NGINX_PHP_UPSTREAM_CONTAINER}
+#          - PHP_UPSTREAM_PORT=${NGINX_PHP_UPSTREAM_PORT}
+      environment:
+        - NGINX_GENERATE_DEFAULT_VHOST=true
+      volumes_from:
+        - applications
+      volumes:
+        - ${NGINX_HOST_LOG_PATH}:/var/log/nginx
+        - ${NGINX_SITES_PATH}:/etc/nginx/sites-available
+      ports:
+        - 8080
+      links:
+        - apache2
+      depends_on:
+        - php-fpm
+        - apache2
+      links:
+        - apache2:web
+        - php-fpm:fpm
+      networks:
+        - frontend
+        - backend
+
+### Apache Server Container #################################
+    apache2:
+      build:
+        context: ./apache2
+        args:
+          - PHP_UPSTREAM_CONTAINER=${APACHE_PHP_UPSTREAM_CONTAINER}
+          - PHP_UPSTREAM_PORT=${APACHE_PHP_UPSTREAM_PORT}
+          - PHP_UPSTREAM_TIMEOUT=${APACHE_PHP_UPSTREAM_TIMEOUT}
+      volumes_from:
+        - applications
+      volumes:
+        - ${APACHE_HOST_LOG_PATH}:/var/log/apache2
+        - ${APACHE_SITES_PATH}:/etc/apache2/sites-available
+      ports:
+        - 9090
+#        - "${APACHE_HOST_HTTP_PORT}:80"
+#        - ${APACHE_HOST_HTTP_PORT}
+      depends_on:
+        - php-fpm
+      networks:
+        - frontend
+        - backend
+
+### MongoDB Containers #######################################
+    mongodb-primary:
+      image: 'bitnami/mongodb:latest'
+      ports:
+        - 27017:27017
+      environment:
+        - MONGODB_REPLICA_SET_MODE=primary
+      volumes:
+       - ${DATA_SAVE_PATH}/mongo_primary:/data/db
+      networks:
+        - backend
+
+    mongodb-secondary:
+      image: 'bitnami/mongodb:latest'
+      depends_on:
+        - mongodb-primary
+      volumes:
+       - ${DATA_SAVE_PATH}/mongo_secondary:/data/db
+      ports:
+        - 27017
+      links:
+        - mongodb-primary:primary
+      environment:
+        - MONGODB_REPLICA_SET_MODE=secondary
+        - MONGODB_PRIMARY_HOST=primary
+        - MONGODB_PRIMARY_PORT_NUMBER=27017
+      networks:
+        - backend
+
+### Laravel Queue Worker #########################################
+    queue-default:
+      build:
+        context: queue-default
+      volumes:
+       - ${APPLICATION}:/var/www
+      depends_on:
+        - workspace
+      volumes_from:
+       - applications
+      networks:
+        - backend
+
+    queue-sentiment:
+      build:
+        context: queue-sentiment
+      volumes:
+       - ${APPLICATION}:/var/www
+      depends_on:
+        - workspace
+      volumes_from:
+       - applications
+      networks:
+        - backend
+
+#    queue-default:
+#      build:
+#        context: ./laravel-queue
+#      volumes:
+#       - ${APPLICATION}:/var/www
+#      depends_on:
+#        - workspace
+#      volumes_from:
+#       - applications
+#      environment:
+#        - QUEUE_CONNECTION=redis
+#        - QUEUE_NAME=default
+#        - QUEUE_TRIES=3
+#      networks:
+#        - backend
+#
+#    queue-sentiment:
+#      build:
+#        context: ./laravel-queue
+#      volumes:
+#       - ${APPLICATION}:/var/www
+#      depends_on:
+#        - workspace
+#      volumes_from:
+#       - applications
+#      environment:
+#        - QUEUE_CONNECTION=redis
+#        - QUEUE_NAME=sentiment
+#        - QUEUE_TRIES=3
+#      networks:
+#        - backend
+
+
+
+### Redis Container #########################################
+
+    redis-master:
+      image: 'bitnami/redis:latest'
+      ports:
+        - '6379'
+      environment:
+        - REDIS_REPLICATION_MODE=master
+        - ALLOW_EMPTY_PASSWORD=yes
+      volumes:
+        - ${DATA_SAVE_PATH}/redis:/data
+      networks:
+        - backend
+
+    redis-slave:
+      image: 'bitnami/redis:latest'
+      ports:
+        - 6379
+      depends_on:
+        - redis-master
+      links:
+        - redis-master:master
+      environment:
+        - REDIS_REPLICATION_MODE=slave
+        - REDIS_MASTER_HOST=master
+        - REDIS_MASTER_PORT_NUMBER=6379
+        - ALLOW_EMPTY_PASSWORD=yes
+      networks:
+        - backend
+
+### Balancer Haproxy ##########################################
+
+    balancer:
+      build: ./haproxy
+      depends_on:
+        - nginx
+      ports:
+        - "${HAPROXY_HOST_HTTP_PORT}:8085"
+        - 80:80
+      volumes:
+        - /var/run/docker.sock:/var/run/docker.sock
+      links:
+        - nginx:web.server
+      environment:
+        - BALANCE=leastconn
+      networks:
+        - frontend
+        - backend
+
+
+### Supervisor ##########################################
+#    supervisor:
+#      build: ./laravel-supervisor
+#      ports:
+#        - 80
+#      networks:
+#        - backend
+#      volumes_from:
+#        - applications
+
+### Networks Setup ############################################
+
+networks:
+  frontend:
+    driver: "bridge"
+  backend:
+    driver: "bridge"
+
+### Volumes Setup #############################################
+
+volumes:
+  percona:
+    driver: "local"
+  mssql:
+    driver: "local"
+  postgres:
+    driver: "local"
+  memcached:
+    driver: "local"
+  redis:
+    driver: "local"
+  neo4j:
+    driver: "local"
+  mariadb:
+    driver: "local"
+  mongo:
+    driver: "local"
+  minio:
+    driver: "local"
+  rethinkdb:
+    driver: "local"
+  phpmyadmin:
+    driver: "local"
+  adminer:
+    driver: "local"
+  aerospike:
+    driver: "local"
+  caddy:
+    driver: "local"
+  elasticsearch-data:
+    driver: "local"
+  elasticsearch-plugins:
+    driver: "local"
+  redis-cluster:
+    driver: "local"
+  mongodb_master_data:
+    driver: "local"
+  supervisor:
+    driver: "local"

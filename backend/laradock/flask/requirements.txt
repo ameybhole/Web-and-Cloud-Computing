@@ -1,0 +1,4 @@
+flask
+TextBlob
+pandas
+numpy
